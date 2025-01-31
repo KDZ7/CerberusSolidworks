@@ -1,0 +1,68 @@
+
+Ball joint pour 3 Degre de liberté
+
+bar Linkage pour poussée M3 (M3/120mm):
+https://www.amazon.fr/QUARKZMAN-Connecteur-Inoxydable-Extr%C3%A9mit%C3%A9-DH%C3%A9licopt%C3%A8re/dp/B0CT8GV162/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3JH6GRH2QXHWS&dib=eyJ2IjoiMSJ9.dxSWHrte2Df5rxiEASJ8WE_ICwHQ4JNHIKIt4n6XgGTtdhWpoGGfDzDdFzixjbN-tXplffSPu40yW4xYpp_r8VYqZ6M6rnyHLT3D4hzEjtlCRyPxh1fdvar-VVJoEwLFSDdaCxx4TZDpMAUBmilFAUrztF5gGwFPjxZwnjMY6gkeQ9lrWIa0aFvoxFMROxuvjuEfvvHopx5bniqU0wB-1NiXNcZiggNV9VJpCzNb86hUnyFXWK2bHbC7Fu-rJb0SpIGiZjHxqV08Mj8oXcI4VwvXhWwlE16zOHK0JokJIo8AHCrsLl3CpHUz-9Cu9EHlnE5IZnQkszByh-PyxmoQhJekDe-JvnNHSOntQqISXbkenJaksKSNVmWQZDgyQRyiwg02yeF9zgQtrLu2SyqRM8jSDITKApMwol-ipsDKixS11IpF7kNK4BSuzWXXn-Ak.Hu00wYzp0Syc0QKuXbN_wergDjccQCH4kmtIzKuQcIg&dib_tag=se&keywords=QUARKZMAN+Connecteur+de+Tige+%C3%A0+Pousser+en+Acier+Inoxydable+304+%C3%A0+Double+Extr%C3%A9mit%C3%A9+Filet%C3%A9e+pour+Voiture+RC%2C+Bateau%2C+Mod%C3%A8le+D%27H%C3%A9licopt%C3%A8re+et+Mat%C3%A9riau+de+Bricolage%2C+M3x120mm%2C+Lot+de+15&nsdOptOutParam=true&qid=1735403578&sprefix=quarkzman+connecteur+de+tige+%C3%A0+pousser+en+acier+inoxydable+304+%C3%A0+double+extr%C3%A9mit%C3%A9+filet%C3%A9e+pour+voiture+rc%2C+bateau%2C+mod%C3%A8le+d%27h%C3%A9licopt%C3%A8re+et+mat%C3%A9riau+de+bricolage%2C+m3x120mm%2C+lot+de+15%2Caps%2C103&sr=8-1
+https://www.amazon.fr/Filetage-bilat%C3%A9ral-Inoxydable-connecteur-Connexion/dp/B0DH3RMWQR/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=36KQ0JIVZ3S20&dib=eyJ2IjoiMSJ9.Hiwk_i34fUd4q0jSNXJtmYbI15xdDCWVawIFwp2C2t5o78lCHgmshq-ee0Tori3aFKQpojSXBvlL67hl0KFBuTCmtPa07vvKHPx1y1PkxSykaHbYo5g6yIBOsnA1DmD-ek1ZY1fo_6ZaVKu-eg2F0VhndlCW7jlZZyGxVTgRDkWmbW2miCw2_xomjZn5pOEEsskZo6T7HOy6i_EytRH56Fxl8dF88Cgtb_XLAT2rkhCGSSHT-1l_5CP2waPYJUGbakNwTUxB2UARhTmxy6yVQY_4ouT68SyCVAnLYNKjbbMtWoat5W15TrWKk0cZnj39faYzShXWcdx_bTL_f6W01CYdueyLKKpjCxDqKndREyGRZOb9n7uxadFJ0PmmJRsz0KOAdizG42FhkpoAbfPe_S-ZF5bzPnRUID83f2-aGUcKK1hmDI-fhj47b48LOMg-.5IlIKox68zXvmxG_ovue8ILIwnfhnSKZ8T11Wf8sZbs&dib_tag=se&keywords=Liaison%2Bde%2Btige%2Bd%27acier%2Binoxydable%2Bde%2Bconnecteur%2Bde%2Btige%2Bde%2Bpouss%C3%A9e%2BM3x100mm&nsdOptOutParam=true&qid=1735394967&sprefix=liaison%2Bde%2Btige%2Bd%27acier%2Binoxydable%2Bde%2Bconnecteur%2Bde%2Btige%2Bde%2Bpouss%C3%A9e%2Bm3x100mm%2Caps%2C107&sr=8-5&th=1
+
+horn servo pour connection bar (25T 20mm/24mm  entrax):
+
+https://www.amazon.fr/Benefischl-pi%C3%A8ces-Filetage-direction-Moteurs/dp/B0BKGLJ6JX/ref=sr_1_2?dib=eyJ2IjoiMSJ9.HduNdWZEBAbr6yA0ZPGEs9OOzErqdq0yxmF3T4-hk9vYwqH0BzGz9j6f7ewMH1lPKDau3GxuQtwPzSv6-_W1rbmaVfIaAlkgNM5jvtS-Oo4Q0m86dNQiU3-YmfE2ULvYBUMTq2BaYFrNxPEOvrI5Y6MKKrmi1UN6SKIfz1FDSWqDbVaYBpj-cTsP8gcsqvf6QzBFX4LEXPK9aTzbm-Ge-zvr8ASDJfiwru2zFBMC5tjQ9teoHQpbZDIyeGO8XggXkAKOnG338Oo4xlZuGc0f21_8IZlB4OUlI59S0rLnHRt0W3rNY4h9fz8uuQObvxf0D8XPgGVuac0DxkWsgrcGl7A25ZAWjeicagyS1KBCpLHc7lc-mEhmsGvR61HRtpLgUL0JNVzLMLMFAKJsoD0_LX1lpy6pQpe1xYbqvYgtLSook24yxtLVDVdLp-v7rIx7.FJaAeEeY4Zacl8XTSik2E2NloLVLEaE8CVsMwjATvQU&dib_tag=se&keywords=palonnier+servo+25t&qid=1734779033&sr=8-2
+https://www.amazon.com.au/ShareGoo-Extension-Steering-Server-Compatible/dp/B09JWVVWQG/ref=pd_sbs_d_sccl_2_6/356-1200326-8827836?pd_rd_w=H89em&content-id=amzn1.sym.943ecb9a-72fe-4f57-beac-485d7137c876&pf_rd_p=943ecb9a-72fe-4f57-beac-485d7137c876&pf_rd_r=KN5P6QEFCNJG05SEFVC3&pd_rd_wg=z2iax&pd_rd_r=71eddaa0-ef35-42ea-86db-fd39c88a5bdc&pd_rd_i=B09JWVVWQG&th=1
+https://www.amazon.com.au/ShareGoo-Steering-Compatible-Replacement-Off-Road/dp/B09MF54QMB/ref=pd_sbs_d_sccl_2_3/356-1200326-8827836?pd_rd_w=Q9kJC&content-id=amzn1.sym.943ecb9a-72fe-4f57-beac-485d7137c876&pf_rd_p=943ecb9a-72fe-4f57-beac-485d7137c876&pf_rd_r=E3M5XNVKPRRYAT46KHGP&pd_rd_wg=TwHE3&pd_rd_r=28cd0066-b112-400a-ad07-5bc78d3e6cb5&pd_rd_i=B09MF54QMB&th=1
+
+
+Servo horn round pour connection avec la Thigh:
+
+https://www.amazon.fr/Youmile-Aluminium-Direction-Couleur-Tournevis/dp/B093WMX54Q/ref=pd_day0_d_sccl_3_1/258-9974470-3692709?pd_rd_w=AwoNF&content-id=amzn1.sym.cc48ab04-3796-4439-b087-8d6b2a0f04cc&pf_rd_p=cc48ab04-3796-4439-b087-8d6b2a0f04cc&pf_rd_r=B9493E9YH6TEXEBF50CG&pd_rd_wg=sW8mL&pd_rd_r=780c19a3-14fb-4069-8c7e-0909f88b1e9a&pd_rd_i=B093WMX54Q&psc=1
+https://www.amazon.fr/DollaTek-Aluminium-Disque-Rudder-Bricolage/dp/B07F71J1Q2/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=46WQBWI9DWGJ&dib=eyJ2IjoiMSJ9.G9tdAYPrP4cYXocSY91IzHqiFW2ZE5jEVWOTseTX7q8CPvB6CYwrhtoY2gIeaKXMY2RMwaoP33Odj7Ko1XRRD_fp7JLzloIT5soP3vjqdVQidVnTvL0uixNDQR5k2PH0Y0c7ljOIFT-H0HQtQU54ZpfVF8x0khE3x7bK43WWVWztdrv-kWDx_IbQxFtOu73L-2BJDoheu2qgknXOfptgEagoMe8Le0V02YBjD30l0_nDZzJ1543osloaC1VtDVwzuyYxiWCJ81aFnO8UJo7f6OtUL79_vW-1Nf6Exys0faSwnyvh9jJAJXJN0Tr47SmJlYuTn8CgaNKA-X3Pyr4SiB_QA6kq0Gz9xNj5MYCNatoMj8-xJxKEicddwET2HyTLQiN5un9qT36tmVhkhYVi8yt09e0pOkCqXGcpVysRrEQjlJrE8TXWPd1OaUqc42sT.yl79oTKvfrhGCmnhODk3K3lnXKamjv1jAUZ-yPJ7VA0&dib_tag=se&keywords=horn+servo+25t+lx16A&nsdOptOutParam=true&qid=1734899331&sprefix=horn+servo+25t+lx16a%2Caps%2C101&sr=8-3
+https://www.amazon.fr/HALJIA-Pi%C3%A8ces-Aluminium-Disque-Bricolage/dp/B092ZLL91S/ref=sr_1_9?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=46WQBWI9DWGJ&dib=eyJ2IjoiMSJ9.G9tdAYPrP4cYXocSY91IzHqiFW2ZE5jEVWOTseTX7q8CPvB6CYwrhtoY2gIeaKXMY2RMwaoP33Odj7Ko1XRRD_fp7JLzloIT5soP3vjqdVQidVnTvL0uixNDQR5k2PH0Y0c7ljOIFT-H0HQtQU54ZpfVF8x0khE3x7bK43WWVWztdrv-kWDx_IbQxFtOu73L-2BJDoheu2qgknXOfptgEagoMe8Le0V02YBjD30l0_nDZzJ1543osloaC1VtDVwzuyYxiWCJ81aFnO8UJo7f6OtUL79_vW-1Nf6Exys0faSwnyvh9jJAJXJN0Tr47SmJlYuTn8CgaNKA-X3Pyr4SiB_QA6kq0Gz9xNj5MYCNatoMj8-xJxKEicddwET2HyTLQiN5un9qT36tmVhkhYVi8yt09e0pOkCqXGcpVysRrEQjlJrE8TXWPd1OaUqc42sT.yl79oTKvfrhGCmnhODk3K3lnXKamjv1jAUZ-yPJ7VA0&dib_tag=se&keywords=horn+servo+25t+lx16A&nsdOptOutParam=true&qid=1734899331&sprefix=horn+servo+25t+lx16a%2Caps%2C101&sr=8-9
+https://www.amazon.com/Honbay-Aluminum-Standard-Airplane-Hop-up/dp/B09CT7QK6C/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_4/135-9846813-6861224?pd_rd_w=L0RzR&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=NGEPZ39K8B6QHZ0ANPXZ&pd_rd_wg=6bbPE&pd_rd_r=cf03dc7a-8629-4d08-877d-1995fb5afdbc&pd_rd_i=B09CT7QK6C&psc=1
+
+et des vis M3 de 10mm minimum pour: https://www.amazon.fr/Vis-Btr-14mm-Cylindrique-Anti-Rouille/dp/B0CYHBPVLQ/ref=sr_1_4_sspa?dib=eyJ2IjoiMSJ9.3rZhgUTCtldCFvyMlh5i3P6lTGmYEJd7hMHPzaCgpzfrSa5WUFzgpbDgTaagBFdhAWAYHDVcWAoTE4u_BuXE0FLF90KupRTo4MKFXZRR9Jo3ZhG-lrxUKpByHEeppCCp8cTEqFpGQgigVmNNBeUL-2WnvXA59B1vEYF8kgAWiwWFaTMjoqavirRJtdLDPIzq22pAijI5PgEwBz6h5awgyaZ8L5qNXfcMEyR6Tq4EVk2mgIGiatTbclQ8KOJKRtjG5BdHfNUvsN_TM0c6nIaxPa0biL_Crg8cSb2Dj6cbWdo.WL7ct5Zi0R6eBG4lcnnFzRHfgPzac_fbNAdpWPQTLw4&dib_tag=se&keywords=vis%2BM3&qid=1734900157&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+
+joint: ex: uxcell 10 PCS M3
+https://www.amazon.fr/sourcing-map-biellettes-h%C3%A9licopt%C3%A8re-radiocommand%C3%A9/dp/B086M8MSHZ/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HII0HWUG2D3X&dib=eyJ2IjoiMSJ9.dZ1vrmmF9Dz8urXppp3tBfkV4SdsKMbQL0ms1UejRsKUDfusdYRyNn-XfRmWUqU4WnVHTyU_uLCYWXr7jja6j9xT0u32Tr5AFRupGnQUs1Ito5qJ8Yb3pw1x9x68k4bdfwvns7UI7IYtik4_1ufZ8GXbS7y3GZrpSL7ykarKMeMtNiIA2RILJQ9cCgsiLamyWX3hDgYvBeksM023TLhxVNn5rY_EYAh450VSvbWHhWhx0W9o25Dj6xjicXpDwrFbeTsHaBEbceqgYYUU9U5uTSPNLNdo0Q0b1dwtfrc9fyvHr4P1cWg0Hp76yAT9JOQhpzDfhZ_pIvBLuI7geXYQ2cc-6buJxOGoyz4-pczbKHg.FbMAbPk8mbaurHyk1TDC9K51YhuJ7bd_Jtke1_he9Jg&dib_tag=se&keywords=uxcell+10+PCS+M3+3.0xL15mm+Lever+Steering+Linkage+Tie+Rod+End+Ball+Head+End+for+RC+Helicopter&nsdOptOutParam=true&qid=1735394519&s=toys&sprefix=uxcell+10+pcs+m3+3.0xl15mm+lever+steering+linkage+tie+rod+end+ball+head+end+for+rc+helicopter%2Ctoys%2C156&sr=1-2
+https://www.amazon.fr/OTOTEC-Biellette-Plastique-Direction-Gouvernail/dp/B09GXVZ8J1/ref=pd_bxgy_thbs_d_sccl_1/258-9974470-3692709?pd_rd_w=2e8NI&content-id=amzn1.sym.3dbb4249-7cc8-4963-a362-854c36cc0919&pf_rd_p=3dbb4249-7cc8-4963-a362-854c36cc0919&pf_rd_r=ZFZYERJS0VZ4WDR1WB8W&pd_rd_wg=BsRPe&pd_rd_r=03ba8750-0c92-46be-8e44-663967b5af07&pd_rd_i=B09GXVXCXV&th=1
+
+others:
+https://www.amazon.com/dp/B07TYXX4N3/ref=sspa_dk_detail_4?psc=1&pf_rd_p=7446a9d1-25fe-4460-b135-a60336bad2c9&pf_rd_r=KCG5JVC0HBQBM1Q41TCT&pd_rd_wg=k69hM&pd_rd_w=x1DN5&content-id=amzn1.sym.7446a9d1-25fe-4460-b135-a60336bad2c9&pd_rd_r=2207a06e-56c6-4c2f-a16c-87cd2bc22761&s=toys-and-games&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw
+https://www.amazon.com/Universal-RC-Assortment-Hardware-Fasteners/dp/B0CMQ852W3/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_3/135-9846813-6861224?pd_rd_w=fKKQx&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=NW4PVYN145V5GNPKR90X&pd_rd_wg=cQcGW&pd_rd_r=0e89ddf2-1ab4-4cfb-8eab-f6e48b71cc33&pd_rd_i=B0CMQ852W3&psc=1
+
+
+Goupille à vis/Fixation de l'axe(25mm et 30mm)
+ 15mm pour les footers (talons) (2x4)
+ 25mm pour pattes avant (x2)
+ 30mm pour pattes arriere (x2)
+ 
+https://www.amazon.fr/Increway-reliure-Chicago-poteaux-daccueil/dp/B07FZXDYM2/ref=ci_mcx_mr_mp_m_d_sccl_2_6/258-9974470-3692709?pd_rd_w=XVl9X&content-id=amzn1.sym.f4202548-28b9-4238-addd-1e87d5d2f948%3Aamzn1.symc.15cbde64-36a4-47c6-b315-5d1a0d7227bc&pf_rd_p=f4202548-28b9-4238-addd-1e87d5d2f948&pf_rd_r=XZ5XM2KG11B90YM5VA5H&pd_rd_wg=Kd9Gt&pd_rd_r=6a106ced-5dfc-4dc6-bac9-559c5dd1a5af&pd_rd_i=B07FL4DJQF&th=1
+
+Vis M2 ../16/20mm 
+https://www.amazon.fr/Vis-Btr-5mm-Cylindrique-Anti-Rouille/dp/B0CVV9RWK5/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.IBywnxFbEgqZy71YNme5nmuID3MSNpDy2QCc4HXFjmkK_ed9iBCp9zwYe0dg0Sm7Vp6Ghhw8vt30aXWqXGPSbV7C8orFjRNKlWRCYkANVB9791KLnXYG9_TNxwvoGwa59Q9r5gRGwsJGDCZBPut4SIdABGsBHwXYTDAQsCFvQmFeOKaEBLdfzsLsgP_FkdYb3NavMmjP76fNeVxQdnwmgnJsYP7zlEmn1uisYJF7eLXn3el9y1aOeKBBykjT4bhRLGR2lhoMUzlBob3sgGmxVu8c6k8orBrRd2hcO2Lnszw.s87R0Q07lk8At7H7umspmF3InIj2wxlS0x2_zvQRxWU&dib_tag=se&keywords=vis%2Bm2&qid=1734289051&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+!!! Vis M3 ../16/20mm/  
+https://www.amazon.fr/Vis-Btr-20mm-Cylindrique-Anti-Rouille/dp/B0BRGHPDF8/ref=sr_1_2_sspa?adgrpid=57843760204&dib=eyJ2IjoiMSJ9.V5NgqK6vxASbf8vBRNjuXY2rOJ5PeNNztEzv_huE9b8s74kzffb1Qs6MNcYLG0U8BDYYWomOuUwjp-IICcPdHhUQSYg0JtKzUV71aMYfP1xOPxvug8KuJAfV8hTf4CQ-xfdh2JF5yikz7u8wYI5vrtsOZAuDqX9dl0MAu5uLpvBz1eti3OF6hCTAK1ffWB1_9YyfaV1A9qYAXar37u5rmwBJmvB9gOtnTn2drPKles58BjM5CE9pz6E9Eqb9eld2rCsNR5MC1BVe91b9CNUBKsJ2m1bfGsm91TcRWxFw_84.kMnxyjjH7cnNUXU134qJsRPEplomagXBo1X4VY7ZBBI&dib_tag=se&hvadid=275520141296&hvdev=c&hvlocphy=1006094&hvnetw=g&hvqmt=e&hvrand=7065826902445960701&hvtargid=kwd-311537261976&hydadcr=16154_1763991&keywords=vis%2Bm3%2B20mm&qid=1734643242&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+
+Pour le joint ball head on part sur une Vis M3 avec Level & Linkage qui dependra du choix: 
+	- Pour un Level_XXmm M3,  Linkage sera M3 de 120mm 	
+
+
+
+Support de fixation servomoteur Lx16A achat aux cas ou?? bracket servo compatible avec lx16A
+https://shop.pimoroni.com/products/metal-gear-serial-servo?variant=41200188620883
+https://www.hiwonder.com/products/servo-bracket-compatible-with-lx-16a
+
+
+
+
+Vis à rajouter:
+
+https://www.amazon.fr/Rondelles-Hexagonale-Cylindrique-Inoxydable-Assortiment/dp/B0CZNX4KBY/ref=ci_mcx_mr_mp_m_d_sccl_3_1/258-9974470-3692709?pd_rd_w=xXlCw&content-id=amzn1.sym.f4202548-28b9-4238-addd-1e87d5d2f948:amzn1.symc.15cbde64-36a4-47c6-b315-5d1a0d7227bc&pf_rd_p=f4202548-28b9-4238-addd-1e87d5d2f948&pf_rd_r=3M7SB99783TTB0YT8CG3&pd_rd_wg=DFmy8&pd_rd_r=061a968e-085d-4b83-9b41-b908c4ce2fc1&pd_rd_i=B0CZNX4KBY&psc=1
+
+
+
+Embout adherant caoutchouc pour remplacer Foot.SLDPRT
+
+https://www.amazon.fr/Embouts-Protection-Caoutchouc-Diam%C3%A8tre-int%C3%A9rieur/dp/B091Z5DC2F/ref=asc_df_B091Z5DC2F?mcid=a9b8526ea12a3b6d9d4110d7b85d082f&tag=googshopfr-21&linkCode=df0&hvadid=701535511894&hvpos=&hvnetw=g&hvrand=4295753760826119237&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006094&hvtargid=pla-1322376662829&gad_source=1&th=1

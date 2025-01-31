@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'SeFR_M', 'ThFR_SeFR', 'ArFR_ThFR', 'ShFR_ThFR', 'SeBR_M', 'ThBR_SeBR', 'ArBR_ThBR', 'ShBR_ThBR', 'SeFL_M', 'ThFL_SeFL', 'ArFL_ThFL', 'ShFL_ThFL', 'SeBL_M', 'ThBL_SeBL', 'ArBL_ThBL', 'ShBL_ThBL', ]
